@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: getting-started
+  title: Getting Started with Developer Portal
+  description: A step by step guide to help you start working with Backstage Developer Portal
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: service
+  lifecycle: experimental
+  owner: user:guest
