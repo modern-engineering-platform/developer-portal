@@ -1,6 +1,6 @@
 site_name: 'Developer Portal Getting Started'
 repo_url: https://github.com/modern-engineering-platform/developer-portal
-edit_uri: edit/master/documentation
+edit_uri: edit/master/documentation/docs
 
 nav:
   - Home: index.md
