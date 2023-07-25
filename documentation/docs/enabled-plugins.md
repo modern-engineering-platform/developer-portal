@@ -11,3 +11,7 @@
 ## Tech Radar
 
 ## Architecture Decision Records
+
+## Announcement
+
+## Bulletin Board
